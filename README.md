@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Software Developer.<br>I have keen interests in Data Analytics and Visualization.<br>I have worked on projects based on Data Structures and Algorithms, Steganography, Software development and Frontend Development.
+A passionate Software Developer, I have keen interests in Data Analytics and Visualization.<br>I have worked on projects based on Data Structures and Algorithms, Steganography, Software development and Frontend Development.
 
 
 ## 🌐 Socials:
